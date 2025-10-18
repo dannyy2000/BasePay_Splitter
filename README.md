@@ -1,6 +1,6 @@
 # 💸 BasePay Splitter
 
-A minimal onchain payment splitter built on **Base**, designed for hackathon teams and collaborators to receive ETH payments transparently — no backend, no tokens, just trustless payout automation.
+A minimal onchain payment splitter built on **Base**, designed for teams and collaborators to receive ETH payments transparently — no backend, no tokens, just trustless payout automation.
 
 ---
 
